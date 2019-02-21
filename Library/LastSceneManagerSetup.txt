@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Examples/Adventure/Adventure.unity
+- path: Assets/Examples/Football/Football.unity
   isLoaded: 1
   isActive: 1
